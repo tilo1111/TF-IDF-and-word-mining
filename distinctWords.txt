@@ -1,0 +1,10 @@
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\A Tale of Two Cities, by Charles Dickens.txt 10523
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Barnaby Rudge, by Charles Dickens.txt 15789
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Les Misérables, by Victor Hugo.txt 25744
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Quo Vadis, by Henryk Sienkiewicz.txt 10454
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Rodney Stone, by Arthur Conan Doyle.txt 8503
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\The Knights of the Cross, by Henryk Sienkiewicz.txt 10170
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\The Three Musketeers, by Alexander Dumas.txt 11010
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Twenty Years After, by Alexander Dumas.txt 11831
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\Uncle Bernac, by Arthur Conan Doyle.txt 6271
+C:\Users\filip\IdeaProjects\Scala\BDATask1\books\With Fire and Sword, by Henryk Sienkiewicz.txt 12934
