@@ -1,3 +1,5 @@
+The program reads the books in \Books directory, counts distinct words in every book and counts TF-IDF for each word in each book.
+
 Texts are in folder books and should not be moved to other directory. Nevertheless feel free to change the content of the folder with your books.
 
 File stopwords_en.txt is crucial. DO NOT remove it.
